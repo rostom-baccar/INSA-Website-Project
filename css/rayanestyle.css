@@ -1,0 +1,24 @@
+.lieu h2{
+  font-size: 32px;
+  font-weight: 700;
+  color: #333;
+  text-align: center;
+}
+
+.titre{
+  font-size: 64px;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+  -webkit-text-stroke: 3px #333; /* width and color */
+}
+.paragraphe{
+	color: #333;
+	margin: 5% 10%;
+	font-size: 24px;
+	text-align: center;
+}
+
+.space100 {
+	margin-bottom: 100px;
+}
